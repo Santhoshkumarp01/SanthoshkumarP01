@@ -5,7 +5,7 @@ Interested in Backend Development, AI/ML, and System Design
 
 ---
 
-### 🚀 About Me
+### About Me
 - Passionate about building **real-world software products**
 - Regularly solve **DSA problems on LeetCode**
 - Experience working on **AI-driven systems and scalable applications**
@@ -13,7 +13,7 @@ Interested in Backend Development, AI/ML, and System Design
 
 ---
 
-### 🌐 Live Project
+### Live Project
 **FitnGro** – AI-powered fitness monitoring and feedback platform  
 🔗 Website: https://fitngro.com  
 
@@ -22,7 +22,7 @@ Interested in Backend Development, AI/ML, and System Design
 
 ---
 
-### 🧠 Technical Skills
+### Technical Skills
 
 **Languages**
 - Python, C, JavaScript
@@ -47,7 +47,7 @@ Interested in Backend Development, AI/ML, and System Design
 
 ---
 
-### 📊 Problem Solving
+### Problem Solving
 - LeetCode Profile: https://leetcode.com/u/Santhoshkumar_1/  
 - Regular practice in Arrays, Strings, Searching, and Core DSA concepts
 
@@ -61,6 +61,6 @@ Interested in Backend Development, AI/ML, and System Design
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 - LinkedIn: https://www.linkedin.com/in/santhoshkumarps1  
 - Email: santhoshpalanisamy292@gmail.com
