@@ -9,8 +9,6 @@ Interested in Backend Development, AI/ML, and System Design
 - Passionate about building **real-world software products**
 - Regularly solve **DSA problems on LeetCode**
 - Experience working on **AI-driven systems and scalable applications**
-- Strong interest in **product-based companies and problem-solving roles**
-
 ---
 
 ### Live Project
